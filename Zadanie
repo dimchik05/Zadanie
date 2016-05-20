@@ -4,4 +4,5 @@ int main()
 {
 cout << "Ева" << endl;
 cout << "Олексій" << endl;
+cout << Діма << endl;
 }
