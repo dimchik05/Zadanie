@@ -4,3 +4,10 @@ int main()
 {
 cout << "Ева";
 }
+
+#include <iostream>
+using namespace std;
+int main()
+{
+cout << "Олексій";
+}
