@@ -5,4 +5,5 @@ int main()
 cout << "Ева" << endl;
 cout << "Олексій" << endl;
 cout << "Александр" << end1;
+cout << "Дімчик" << endl;
 }
